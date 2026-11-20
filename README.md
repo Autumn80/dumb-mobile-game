@@ -1,6 +1,5 @@
 # Dumb Mobile Game
 I was getting bored, so I decided to make a fun game!
-Unreleased.
 
 Source code?
 Yes!
